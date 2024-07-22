@@ -19,7 +19,7 @@ Utilizing OpenAI’s GPT3.5 and its Function Calling functionality, ***Sendbird 
 ```shell
 open Sample/QuickStart.xcodeproj
 ```
-2. Set the `applicationId` and `botId` in [`AppDelegate.swift`](https://github.com/sendbird/ecommerce-ai-chatbot/blob/develop/Sample/QuickStart/AppDelegate.swift#L13-L23)
+2. Set the `applicationId` and `botId` in [`AppDelegate.swift`]
 ```swift
 static let botId: String = <#botId: String#>
 ```
