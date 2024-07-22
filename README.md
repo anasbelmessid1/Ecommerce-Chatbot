@@ -1,6 +1,6 @@
 
 # E-Commerce AI Chatbot 
-Salut c'est Anas / Hi it's Anas !
+Salut c'est Anas / Hi it's Anas !  
 [![Platform](https://img.shields.io/badge/platform-iOS-orange.svg)](https://cocoapods.org/pods/SendBirdUIKit)
 [![Languages](https://img.shields.io/badge/language-Swift-orange.svg)](https://github.com/sendbird/sendbird-uikit-ios)
 [![Commercial License](https://img.shields.io/badge/license-Commercial-green.svg)](https://github.com/sendbird/sendbird-uikit-ios/blob/main/LICENSE.md)
