@@ -12,9 +12,6 @@ Utilizing OpenAI’s GPT3.5 and its Function Calling functionality, ***Sendbird 
 
 ![e-commerce](https://github.com/sendbird/ecommerce-ai-chatbot/assets/104121286/33b39bbf-1bb9-4794-93df-eadc51ea77b7)
 
-## Prerequisites
-1. [Sendbird Account](https://dashboard.sendbird.com/)
-2. Application ID and ChatBot: Please refer to [Step1 ~ Step4](https://sendbird.com/developer/tutorials/create-an-ai-chatbot)
 
 ## How to open the demo app
 1. Open Xcode Demo project
